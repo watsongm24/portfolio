@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Watson Marcelain",
+    "occupation": "Software Engineer",
+    "description": "Full Stack Python Developer",
+    "image": "IG_Watson.jpeg",
+    "bio": "My name is Watson, I am a Full Stack Python Developer. Currently I'm working at Neflix as Tech Support",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "watsonmarcelain@gmail.com",
+    "phone": "+1475-333-0569",
+    "address": {
+      "street": "Bayona, Calle Rogelio, Guajimia 3",
+      "city": "Santo Domingo",
+      "state": "Distrito Nacional",
+      "zip": "10903"
+    },
+    "website": "Soon",
+    "resumedownload": "Soon",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/marcelin.watson.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/watson-marcelain-0a13a3ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/watsongm/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/watsongm24",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are skills ",
+    "education": [
+      {
+        "school": "Universidad APEC",
+        "degree": "Software Engineering",
+        "graduate": "April 2021",
+        "description": "Graduate with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Netflix",
+        "title": "Tech Support",
+        "years": "July 2020 - Present",
+        "description": "Assist customers with troubleshooting issues."
+      },
+      {
+        "company": "Liveops/Bath and Bodyworks",
+        "title": "Tech Support",
+        "years": "Nov 2019 - July 2020",
+        "description": "Assist customers with troubleshooting issues."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "62%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chat server for students",
+        "category": "A chat server for students using Django Channels",
+        "image": "chat-server.jpg",
+        "url": "https://github.com/watsongm24"
+      },
+      {
+        "title": "E-Learning Platform",
+        "category": "E-learning platform with content management system (CMS)",
+        "image": "e-learning.jpg",
+        "url": "https://github.com/watsongm24"
+      },
+      {
+        "title": "Online shop with Django",
+        "category": "Built the essential functionalities of an e-commerce platform with Django",
+        "image": "shop.jpg",
+        "url": "https://github.com/watsongm24"
+      },
+      {
+        "title": "Social Website",
+        "category": "Social application and online platform",
+        "image": "social.png",
+        "url": "https://github.com/watsongm24"
+      },
+      {
+        "title": "Watson Blog Application",
+        "category": "Blog application using Django.",
+        "image": "blog.jpg",
+        "url": "https://github.com/watsongm24"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Easy to work with.",
+        "user": "Antonio Gonzales"
+      },
+      {
+        "text": "Watson must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Thevenel Joazard... impersonator"
+      }
+    ]
+  }
+}
